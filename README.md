@@ -1,9 +1,12 @@
-# BADANIE ORAZ SYMULACJA UKLADU PLANET
-## OPIS:
-Kosmos oraz znajdujące się w nim planety to bogactwo możliwości przeprowadzeń badań naukowych, a tym samym obliczeń matematyczno-fizycznych. W tym projekcie chcielibyśmy posłużyć się nimi w celu wyobrażenia geometrycznego planet oraz badania ich odległości od siebie.
-## CELE: 
-•	Określenie w jakim odstępie czasu planety ułożą się w wybrane figury geometryczne oraz analiza pól tych samych figur utworzonych przez różne układy
+# Planetary Systems Study and Simulation
 
-•	Utworzenie koniunkcji planet układu (obliczenia pozwalające sprawdzić, kiedy i czy możliwe jest, aby planety układu ustawiły się w jednej linii);
-## WYKORZYSTANE NARZEDZIA:
-JULIA, biblioteka Plots
+## Project Description
+This project explores the vast possibilities of conducting scientific research within the cosmos, focusing on the planets and their mathematical-physical relationships. Our goal is to utilize these relationships to model the geometric configurations of planets and analyze their spatial distances.
+
+## Objectives
+- **Geometric Alignment Analysis**: Determine the time intervals at which planets align into specific geometric shapes and analyze the areas of these shapes formed by various planetary configurations.
+- **Planetary Conjunctions**: Perform calculations to identify times when it is possible for the planets in the system to align linearly.
+
+## Tools Used
+- **Julia Language**: For efficient computation and data handling.
+- **Plots Library**: To visualize data and geometric configurations of the planets.
